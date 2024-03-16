@@ -4,7 +4,16 @@
  Bhavana Balan 9921005101@klu.ac.in
  Harika Annapareddy 99210041320@klu.ac.in
  Arif Basha A  9921004176@klu.ac.in
+
+ 
+ 
+ 
+ 
  #Problem statement:
+ A virtual medical or healthcare assistant is an web service that helps identify patients’ illnesses based on the symptoms they are experiencing, oversees their health status, schedules doctor appointments, and provides other medical services. 
+
+
+ 
  
  
 
